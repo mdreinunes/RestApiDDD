@@ -1,0 +1,15 @@
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\bin\Debug\net5.0\RestApiDDD.Domain.Core.deps.json
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\bin\Debug\net5.0\RestApiDDD.Domain.Core.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\bin\Debug\net5.0\RestApiDDD.Domain.Core.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\bin\Debug\net5.0\RestApiDDD.Domain.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\bin\Debug\net5.0\RestApiDDD.Domain.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.csproj.CopyComplete
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\refint\RestApiDDD.Domain.Core.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\RestApiDDD.Domain.Core.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domain.Core\obj\Debug\net5.0\ref\RestApiDDD.Domain.Core.dll

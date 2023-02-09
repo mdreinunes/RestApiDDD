@@ -1,0 +1,17 @@
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domaim.Services.deps.json
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domaim.Services.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domaim.Services.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domain.Core.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domain.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domain.Core.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\bin\Debug\net5.0\RestApiDDD.Domain.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.csproj.CopyComplete
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\refint\RestApiDDD.Domaim.Services.dll
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\RestApiDDD.Domaim.Services.pdb
+C:\Users\Matheus\source\repos\RestApiDDD\RestApiDDD.Domaim.Services\obj\Debug\net5.0\ref\RestApiDDD.Domaim.Services.dll
